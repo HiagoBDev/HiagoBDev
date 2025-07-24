@@ -19,7 +19,7 @@ Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por cri
   <img alt="React" title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Next.js" title="Next.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
   <img alt="Vue.js" title="Vue.js" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-  <img alt="ReactNative" title="ReactNative" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg"/>
+  <img alt="ReactNative" title="ReactNative" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg"/>
   <img alt="TailwindCSS" title="TailwindCSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
   <img alt="StyledComponents" title="StyledComponents" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg"/>
   <img alt="Bootstrap" title="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
