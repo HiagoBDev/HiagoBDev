@@ -2,10 +2,10 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Me chamo **Hiago Borgaço**, tenho 20 anos e sou natural de Açailândia - MA.  
-Atualmente curso **Sistemas de Informação** na UNIFACIMP WYDEN e atuo como **Desenvolvedor Front-End** na [HONDA Motoca](https://www.motoca.com.br/), líder nacional no ranking HPD (Honda Performance Dealer), em Imperatriz - MA.  
+Olá! Me chamo Hiago Borgaço, tenho 20 anos e sou natural de Açailândia - MA.
+Atualmente curso Sistemas de Informação na UNIFACIMP WYDEN e atuo como Desenvolvedor Front-End Pleno na BRQ Digital Solutions, uma das maiores empresas de transformação digital do Brasil.
 
-Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por criar sistemas modernos, escaláveis e bem desenhados.  
+Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por criar sistemas modernos, escaláveis e bem desenhados.
 
 ---
 
