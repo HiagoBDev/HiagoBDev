@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Me chamo Hiago Borgaço, tenho 20 anos e sou natural de Açailândia - MA.
+Olá! Me chamo Hiago Borgaço, tenho 21 anos e sou natural de Açailândia - MA.
 Atualmente curso Sistemas de Informação na UNIFACIMP WYDEN e atuo como Desenvolvedor Front-End Pleno na BRQ Digital Solutions, uma das maiores empresas de transformação digital do Brasil.
 
 Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por criar sistemas modernos, escaláveis e bem desenhados.
