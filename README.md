@@ -49,7 +49,7 @@ Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por cri
 
 ---
 
-## O que eu construo
+## O que eu construo atualmente
 
 - **SPAs** com Next.js (Pages Router) e componentes compartilhados em monorepo
 - **APIs serverless** na AWS com arquitetura modular e hexagonal
