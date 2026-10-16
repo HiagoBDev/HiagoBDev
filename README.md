@@ -9,7 +9,7 @@ Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por cri
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Front-end
 <div align="left">
@@ -49,7 +49,7 @@ Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por cri
 
 ---
 
-## 💼 O que eu construo
+## O que eu construo
 
 - **SPAs** com Next.js (Pages Router) e componentes compartilhados em monorepo
 - **APIs serverless** na AWS com arquitetura modular e hexagonal
@@ -58,7 +58,7 @@ Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por cri
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=HiagoBDev&show_icons=true&theme=tokyonight&locale=pt-br&hide_title=true" />
@@ -67,7 +67,7 @@ Tenho contato com computadores desde os 8 anos de idade e sou apaixonado por cri
 
 ---
 
-## 🌐 Contato
+## Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hiago-borga%C3%A7o/)
 - ✉️ **hiagoborgaco1@gmail.com**
